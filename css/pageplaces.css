@@ -1,0 +1,20 @@
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color:brown;
+  text-align: center;
+}
+
+p {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+}
+
+ol {
+  font-size: 25px;
+  text-align: center;
+}
+
+ul {
+font-size: 20px;
+font-weight: 300px;
+}
